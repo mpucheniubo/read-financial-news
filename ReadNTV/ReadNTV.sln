@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadNTV", "ReadNTV.csproj", "{3972BAF3-D3F8-4551-B7B8-2D2A981F1E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3972BAF3-D3F8-4551-B7B8-2D2A981F1E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3972BAF3-D3F8-4551-B7B8-2D2A981F1E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3972BAF3-D3F8-4551-B7B8-2D2A981F1E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3972BAF3-D3F8-4551-B7B8-2D2A981F1E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
